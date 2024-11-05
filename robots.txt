@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ediloire.github.io/VHw/sitemap_index.txt
+Sitemap: https://ediloire.github.io/bJY/sitemap_index.txt
+Sitemap: https://ediloire.github.io/kBY/sitemap_index.txt
+Sitemap: https://ediloire.github.io/pul/sitemap_index.txt
